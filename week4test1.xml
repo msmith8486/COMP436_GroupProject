@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Test1>
+	<Vehicle>
+		<Car condition="new">
+			<Maker>Toyota</Maker>
+			<Model>Corolla</Model>
+			<Year>2016</Year>
+			<Color>Silver</Color>
+			<Price>$19,000</Price>
+		</Car>
+	</Vehicle>
+
+
+	<SportsTeam sport="Baseball">
+		<city>Chicago</city>
+		<mascot>Cub</mascot>
+		<name>Cubs</name>
+		<player name="...." position="...." age="....">....</player>
+		<player name="...." position="...." age="....">....</player>
+	</SportsTeam>
+
+	<Musical_CD genre="folk">
+		<artist>Judy Small</artist>
+		<nation>Australia</nation>
+		<title>....<.title>
+		<year>....</year>
+		<song no="1">......</song>
+		<song no="2">......</song>
+		<song no="3">......</song>
+		<song no="4">......</song>
+		<song no="5">......</song>
+	</Musical_CD>
+</Test1>
