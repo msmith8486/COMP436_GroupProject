@@ -2,8 +2,7 @@
 * styles.css - general css styles
 */
 
-ul {
-  list-style: circle inside;
+ol {
   font-size: 1em;
 }
 
@@ -45,6 +44,50 @@ li {
 #menutabs a:hover {
   color: #779eab;
 }
+
+div.container {
+    width: 100%;
+    <!--border: 1px solid gray;>
+}
+
+header {
+    padding: 1em;
+    color: white;
+	background: black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 500px;
+	color: black;
+    margin: 0;
+    padding: 1em;
+	background: url(stansted-House2.jpg);
+    background-size: 500X 500px;
+    background-repeat: repeat;
+
+	
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
+
 
 h1 {
     font-family: Broadway, Times, serif;
