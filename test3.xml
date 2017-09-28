@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="test3transform.xslt"?>
+
+
+<catalogue>
+	<Car>
+		<Maker>Toyota</Maker>
+		<Model>Corolla</Model>
+		<Year>2016</Year>
+		<Color>Silver</Color>
+		<MSRP>$19,000</MSRP>
+	</Car>
+	<Car>
+		<Maker>Honda</Maker>
+		<Model>Civic</Model>
+		<Year>2015</Year>
+		<Color>Red</Color>
+		<MSRP>$17850</MSRP>
+	</Car>
+	<Car>
+		<Maker>Ford</Maker>
+		<Model>Ford</Model>
+		<Year>2016</Year>
+		<Color>Black</Color>
+		<Price>$19000</Price>
+	</Car>
+	
+</catalogue>
