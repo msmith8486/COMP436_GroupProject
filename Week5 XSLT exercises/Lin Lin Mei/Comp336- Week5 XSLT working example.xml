@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Comp336- Week5 XSLT working example.xsl"?>
+<catalouge>
+	<album>
+		<title>Ultra Rare Vol. 1</title>
+		<artist>Mystery Skulls</artist>
+		<location>America</location>
+		<price>9.99</price>
+		<year>2015</year>
+	</album>
+</catalouge>
+
