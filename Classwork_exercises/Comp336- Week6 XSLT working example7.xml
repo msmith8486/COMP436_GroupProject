@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Comp336- Week6 XSLT working example7.xsl"?>
+<catalogue>
+	<album>
+		<title>Ultra Rare Vol. 1</title>
+		<artist>Mystery Skulls</artist>
+		<location>America</location>
+		<price>9.99</price>
+		<year>2015</year>
+	</album>
+	<album>
+		<title>Miracle Milk</title>
+		<artist>Mili</artist>
+		<location>Japan</location>
+		<price>24.61</price>
+		<year>2016</year>
+	</album>
+	<album>
+		<title>The Golden Echo</title>
+		<artist>Kimbra</artist>
+		<location>America</location>
+		<price>8.06</price>
+		<year>2014</year>
+	</album>
+</catalogue>

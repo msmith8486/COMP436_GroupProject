@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Comp336- Week6 XSLT working example6.xsl"?>
+<catalogue>
+	<album>
+		<title>Ultra Rare Vol. 1</title>
+		<artist type="individual" genre="electronica">Mystery Skulls</artist>
+		<location area="country">America</location>
+		<price format="digital">1</price>
+		<year>2015</year>
+	</album>
+	<album>
+		<title>Miracle Milk</title>
+		<artist type="group" genre="electronic classical">Mili</artist>
+		<location area="country">Japan</location>
+		<price format="audio CD">24.61</price>
+		<year>2016</year>
+	</album>
+	<album>
+		<title>The Golden Echo</title>
+		<artist type="individual" genre="R&B">Kimbra</artist>
+		<location area="country">America</location>
+		<price format="audio CD">8.06</price>
+		<year>2014</year>
+	</album>
+</catalogue>
