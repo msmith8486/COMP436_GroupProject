@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:template match="/">
+ <html>
+ <body>
+ <h2>Moonan Family Members</h2>
+ <table>
+	<tr>
+		<th>Family members</th>
+		
+	</tr>
+	<xsl:for-each select="family-member/name">
+	 <xsl:sort select="mother"/>
+		 <tr>
+			<td><xsl:value-of select=”mother”/></td>
+		<tr>
+			<td><xsl:value-of select="name"/></td>
+			<<td><xsl:value-of select="year"/></td>
+		</tr>
+		<tr>      <td><xsl:value-of select “year-born”/></td>
+			<td><xsl:value-of select “year-died”/></td>
+		</tr>
+	</xsl:for-each>
+ </table>
+	<note>Output sorted based on mother’s name</note>
+ </body>
+ </html>
+/xsl:template>
+/xsl:stylesheet>

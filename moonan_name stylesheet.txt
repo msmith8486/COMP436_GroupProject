@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="moonan house project.xsl"?>
+
+<family-members>
+	<name>
+		<full-name>Barbara Senn Sellers</full-name>
+		<nickname>Barbie</nickname>
+		<maiden-name>Senn</maiden-name>
+		<year-born>1946</year-born>
+		<year-died>2015</year-died>
+		<mother>Dorothy Moonan</mother>
+	</name>
+       <name>
+		<full-name>Ethel Klug Moonan</full-name>
+		<nickname>Grandma</nickname>
+		<maiden-name>Klug</maiden-name>
+		<year-born>1891</year-born>
+		<year-died>1962</year-died>
+		<mother></mother>
+	</name>
+       <name>
+		<full-name>Joe Moonan</full-name>
+		<nickname>Grandpa</nickname>
+		<maiden-name></maiden-name>
+		<year-born>1890</year-born>
+		<year-died>1966</year-died>
+		<mother>Rosemary Breen Moonan</mother>
+	</name>
+       <name>
+		<full-name>Richard Hough</full-name>
+		<nickname>Dick</nickname>
+		<maiden-name></maiden-name>
+		<year-born>1946</year-born>
+		<year-died></year-died>
+		<mother>Frances Moonan Hough</mother>
+	</name>
+       <name>
+		<full-name>Patrick Pinnell</full-name>
+		<nickname>Pat</nickname>
+		<maiden-name></maiden-name>
+		<year-born>19469year-born>
+		<year-died></year-died>
+		<mother>Joan Moonan Pinnell</mother>
+	</name>
+       <name>
+		<full-name>Mark Walbran</full-name>
+		<nickname>Mark</nickname>
+		<maiden-name></maiden-name>
+		<year-born>199</year-born>
+		<year-died></year-died>
+		<mother>Mary Moonan Walbran</mother>
+	</name>
+</family-members>
+
