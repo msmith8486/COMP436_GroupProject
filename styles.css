@@ -65,7 +65,11 @@ nav {
     margin: 0;
     padding: 1em;
 	background: white;
+<<<<<<< HEAD
     background-size: 500pX 500px;
+=======
+    background-size: 500X 500px;
+>>>>>>> html-book
     background-repeat: repeat;
 
 	
@@ -78,6 +82,7 @@ nav ul {
    
 nav ul a {
     text-decoration: none;
+	color:blue
 }
 
 article {
@@ -85,6 +90,7 @@ article {
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
+	background-color:#c3dfac
 }
 
 
