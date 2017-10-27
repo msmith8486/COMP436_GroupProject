@@ -93,7 +93,17 @@ article {
 	background-color:#c3dfac
 }
 
-
+a.book_link{
+	color: white;
+	}
+	
+footer{
+	padding-left: 35px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	color: white;
+	background: black;
+}
 
 h1 {
     font-family: Broadway, Times, serif;
