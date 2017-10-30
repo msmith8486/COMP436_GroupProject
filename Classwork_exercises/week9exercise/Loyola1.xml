@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Loyola1.xsl"?>
+<Loyola>
+	<campus>
+		<name language="english"></name>
+		<abbrev></abbrev>
+		<city></city>
+		<state></state>
+		<location_description></location_description>
+		<building>
+			<buildingName></buildingName>
+			<address></address>
+			<year></year>
+			<images>
+				...
+			</images>
+			<note></note>
+		</building>
+	</campus>
+</Loyola>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Loyola6.xsl"?>
+<Loyola>
+	<campus>
+		<name language="english">Lake Shore Campus</name>
+		<abbrev>LSC</abbrev>
+		<city>Chicago</city>
+		<state>Illinois</state>
+		<location_description>north side of Chicago in the Rogers Park area</location_description>
+		<building type = "general">
+			<buildingName>Sullivan Center</buildingName>
+			<address>6339 N. Sheridan Rd</address>
+			<year>1970</year>
+			<images>
+				<image src="Sullivan_Center outside view.jpg" size="large" type="jpg">Sullivan Center</image>
+				<image src="computer lab.jpg" size="thumb" type="jpg">Computer Lab</image>
+			</images>
+			<note>The Sullivan Center is a centralized student resource building, located at the south end of the Lake Shore Campus.</note>
+		</building>
+		<building type ="landmark">
+			<buildingName>Madonna della Strada Chapel</buildingName>
+			<address> 1032 W Sheridan Rd</address>
+			<year>1939</year>
+			<images>
+				<image src="Madonna della Strada Chapel outside.jpg" size="full" type="jpg">Madonna della Strada Chapel</image>
+				<image src="Madonna della Strada Chapel inside.jpg" size="small" type="jpg">Madonna della Strada Chapel</image>
+			</images>
+			<note>The Madonna della Strada Chapel, a striking Art Deco masterpiece completed in 1939, is the center of Loyola's religious life.</note>
+		</building>		
+	</campus>
+
+	<campus>
+		<name language="english">Water Tower Campus</name>
+		<abbrev>WTC</abbrev>
+		<city>Chicago</city>
+		<state>Illinois</state>
+		<location_description>along a stretch of Michigan Avenue named after the Chicago Water Tower</location_description>
+		<building type ="general">
+			<buildingName>Corboy Law Center</buildingName>
+			<address>25 E Pearson St</address>
+			<year>1983</year>
+			<images>
+				<image src="CorboyLawCenter outside.jpg" size="large" type="jpg">Corboy Law Center</image>
+				<image src="CorboyLawCenter inside.jpg" size="small" type="jpg">Corboy Law Center</image>
+			</images>
+			<note>Philip Harnett Corboy was one of the top 100 most influential lawyers in America.</note>
+		</building>
+		<building type="landmark">
+			<buildingName>Lewis Towers</buildingName>
+			<address> 111 E. Pearson St.</address>
+			<year>1945</year>
+			<images>
+				<image src="LewisTowers outside.jpg" size="small" type="jpg">Madonna della Strada Chapel</image>
+				<image src="LewisTowers intside.jpg" size="thumb" type="jpg">Madonna della Strada Chapel</image>
+			</images>
+			<note>Lewis Towers is one of Loyola's most historic buildings on the Water Tower Campus.</note>
+		</building>		
+	</campus>
+			
+	
+</Loyola>
