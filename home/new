@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="bbhp.xsl"?> 
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head> The Big Brick House Project
+  <title>:: Home</title> 
+  
+  <style media="screen" type="text/css">
+   	@import "css/mtp.css";
+   </style>
+
+   <meta
+   content=”The Big Brick House Project, Comp436 Project, Loyola University Chicago”name="keywords" />
+  <meta
+   content="The Big Brick House Project applies principles acquired in CompSci 436 coursework to move the hard copy book about the Moonan large brick house to an extensible format."
+   name="description" />
+
+ </head>
+
+
+ <body id="homepage">
+<a class="jump-to-content" href="#content">Jump to Content</a>
+  <div id="home">
+  	<div id="wrapper">
+   	<div id="header">
+    		<img alt="header image" height="94" src="images/header.jpg" width="980" />
+   	</div>
+   <!-- end header -->
+<br class="clear" />
+   
+
+
+  
+   <div id="site-nav-wrapper">
+    <ul id="site-nav">
+     <li><a class="selected" href="/homepage.html">Home</a></li>
+     <li><a href="/book">Book</a></li>
+         <li><a href="/">Images</a></li> 
+     <li><a href="/resources">Resources</a></li>
+     </ul>
+    <br class="clear" />
+   </div>
+   <!-- end header -->
+   <div id="content">
+    <div id="content-primary">
+     <h2><a class="headlink" href="/about_bbhp.shtml">About This Site</a></h2>
+     <div class="inner">
+      <p>The Big Brick House Project applies web design tools to move a hard copy book created by the grandchildren of Joe and Ethel Moonan to digital and extensible version that could easily be updated and enhanced with more stories, images, and a wealth of relevant linked data and resources.</p>
+<p>In 1914, when the house built by John Moonan was being sold outside of the Moonan family for only the second time, the grandchildren, many of whom had reached the time of life when one reflects back on childhood, exchanged a flurry of stories, photos, and questions on a shared e-mail group. Discovering that this house was truly the “sense of place” for many of the cousins, they decided to create a “My Publisher” book for the new house family. The resulting book was filled with stories, recollections, images, architectural plans, and more, and yet it called for a customizable interface that would allow us to continue to collect and share more.  
+</p>
+
+
+
+
+<h2><a class="headlink" href="/">A Sense of Place</a></h2>
+
+
+      <p><span class="quote">&#8220;
+	No place is a place until things that have happened in it are remembered in history, ballads, yarns, legends, or monuments.;&#8221;
+	</span>Wallace Stegner, <a href="http://www.pugetsound.edu/files/resources/7040_Stegner,%20Wallace%20%20Sense%20of%20Place.pdf">The Sense of Space</a>.
+</p>
+
+
+</div>
+!-- end inner  -->
+<!-- end content primary -->
+
+<img alt="header image" height="250" src="/images/front_door_with_child.jpg"  align="right"/>
+
+
+
+    <!-- end content-secondary -->
+    <br class="clear" />
+   </div>
+   <!-- end content -->
+   <br class="clear" />
+  </div>
+  <!-- end wrapper -->
+
+
+
+
+  <div id="footer">
+   <div id="footer-content">
+    
+  <!-- end footer -->
+</div>
+  <!-- end home -->
+ </body>
+</html>
